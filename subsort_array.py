@@ -86,10 +86,5 @@ def subarray_sort(arr):
     return results
 
 print subarray_sort([3, 4, 8, 1, 10, 6, 17])
-print subarray_sort([3, 4, 8, 1, 22, 6, 17])
 
-
-#    indices[0] = x
-#    start = x
-#    break
 
